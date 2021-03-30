@@ -1,0 +1,24 @@
+Datos Registrados
+-----------------
+Nombre y Apellido..........: Michael Reques
+Genero.....................: Masculino
+Datos Registrados
+-----------------
+Nombre y Apellido....: Michael Reques
+Genero...............: Masculino
+Estado...............: Mayor de edad
+Datos Registrados
+-----------------
+Nombre y Apellido....: Jarumy Reques
+Genero...............: Femenino
+Estado...............: Menor de edad
+Datos Registrados
+-----------------
+Nombre y Apellido....: Jarumy Reques
+Genero...............: Femenino
+Estado...............: Mayor de edad
+Datos Registrados
+-----------------
+Nombre y Apellido....: Jarumy Reques
+Genero...............: Femenino
+Estado...............: Menor de edad
